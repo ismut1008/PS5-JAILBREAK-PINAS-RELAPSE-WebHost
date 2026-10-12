@@ -4,10 +4,10 @@ Webhost base on Karo's version of Relapse for FW7.00 to FW13.60 with UNLI PAYLOA
 What if offers?
 --------------------
 
--MEDIA TAB "shortcut icon" for quick navigation of the page
--COMES WITH 16 PAYLOADS
--UNLI PAYLOADS feature (add Payloads on PS5's INTERNAL STORAGE and will auto populate on the webhost itself, without rebooting)
--base on Karo's Relapse Webhost with Stability Fix
+- MEDIA TAB "shortcut icon" for quick navigation of the page
+- COMES WITH 16 PAYLOADS
+- UNLI PAYLOADS feature (add Payloads on PS5's INTERNAL STORAGE and will auto populate on the webhost itself, without rebooting)
+- base on Karo's Relapse Webhost with Stability Fix
 
 UNLI PAYLOADS feature 
 --------------------
