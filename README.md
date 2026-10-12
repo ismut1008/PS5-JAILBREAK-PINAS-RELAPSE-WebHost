@@ -98,6 +98,8 @@ For example:
 --------------------------------------------
 
 Quick Q and A
+--------------------------------------------
+
 Q: Why does Relapse "does not support offline caching"?
 A: Relapse has an "klsr" issue, where the exploit would not run without an active network connection (with or without internet will do, just like VUEJB on PS4... we don't know if this can be resolve in the future)
 
