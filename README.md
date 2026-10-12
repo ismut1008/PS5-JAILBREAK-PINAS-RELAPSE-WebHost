@@ -126,5 +126,5 @@ vladimir-cucu https://github.com/vladimir-cucu
 Pippo, kerrdec97, Speed-007, Mr.Cat, Karo all devs, dumpers, testers
 
 --------------------------------------
-Huge Thanks to: Mark Galvez https://www.facebook.com/MarcGalvez02#
---------------------------------------
+Credits to Mark Galvez for webhost testing https://www.facebook.com/MarcGalvez02#
+
