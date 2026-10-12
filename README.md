@@ -124,3 +124,7 @@ Jordy https://github.com/jordyidk
 notmajor https://github.com/notmaj0r
 vladimir-cucu https://github.com/vladimir-cucu
 Pippo, kerrdec97, Speed-007, Mr.Cat, Karo all devs, dumpers, testers
+
+--------------------------------------
+Huge Thanks to: Mark Galvez https://www.facebook.com/MarcGalvez02#
+--------------------------------------
