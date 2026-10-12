@@ -98,6 +98,14 @@ For example:
       !4000 (means a delay of approximately: 4000 ms)
       onionhen.elf (the following line specifies the ELF that should be loaded)
 
+---------------------------
+
+VERY IMPORTANT NOTE:
+
+---------------------------
+
+- Relapse doesn't support "FW9.05", "FW10.60" AND "FW11.40" AT THE MOMENT (you must use PS5 JAILBREAK PINAS SlopPoops WebHost instead)
+
 --------------------------------------------
 
 Quick Q and A
