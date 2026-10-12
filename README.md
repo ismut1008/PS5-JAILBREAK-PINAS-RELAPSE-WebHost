@@ -9,10 +9,10 @@ What if offers?
 - UNLI PAYLOADS feature (add Payloads on PS5's INTERNAL STORAGE and will auto populate on the webhost itself, without rebooting)
 - base on Karo's Relapse Webhost with Stability Fix
 
-UNLI PAYLOADS feature 
+UNLI PAYLOADS FEATURE
 --------------------
 
-- UNLIMITED PAYLOADS (depends on the user's setup, FREEDOM OF CHOICE on what payloads to add)
+- UNLIMITED PAYLOADS (users can add payloads on console's internal storage and will auto populate on the webhost itself, without rebooting)
     - run web file manager, ftp or any payload manager then copy the payloads you want on the designated path (you can add and delete payloads that you want, except the pre-embedded payloads)
     - comes with pre-embed "lapy_jb_daemon" payload, so you can use PS5-Xplorer app to transfer payloads that you want or you can also use bfpilotv044.elf and web-file-mgr-v1.6.elf
       
